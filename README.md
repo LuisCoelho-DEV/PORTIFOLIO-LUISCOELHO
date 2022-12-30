@@ -8,7 +8,7 @@
 
 - Site tipo do portifólio, onde foi construído com o intuito de divulgar a minha evolução como desenvolvedor web.
 
-- - Foi proposto esse projeto com a finalidade de replicar um projeto que desenvolvemos no FIGMA com a finalidade de compreender a @media para responsividade.
+
 
 
 
